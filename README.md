@@ -1,6 +1,6 @@
 ## Olá, Mundo, bem vindo ao meu Github! 🤘
 
-❤️Apaixonado por rock, sushi, sci-fi, games e família.❤️ ⚡A jornada de mil quilômetros começa com o primeiro passo!⚡
+❤️Apaixonado por metal, sushi, sci-fi, games e família.❤️ ⚡A jornada de mil quilômetros começa com o primeiro passo!⚡
 
 ##
 
