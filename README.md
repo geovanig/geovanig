@@ -21,8 +21,7 @@
   <img align="center" alt="postgresql"height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="mysql"height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="git"height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="center" alt="docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="right" alt="Vitor-gif" height="150" width="300" src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47c9opagwsjf9jfg0xmbi8i66ug5s0oh3p3rx0qd70&rid=giphy.gif&ct=g">
+  <img align="right" alt="pc-gif" height="150" width="300" src="https://media4.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif?cid=ecf05e47c9opagwsjf9jfg0xmbi8i66ug5s0oh3p3rx0qd70&rid=giphy.gif&ct=g">
 </div>
   
   ##
