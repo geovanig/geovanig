@@ -21,7 +21,7 @@
   <img align="center" alt="postgresql"height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="mysql"height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="git"height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-  <img align="right" alt="analista" height="256" width="320" src="https://github.com/geovanig/landing-page/blob/main/images/Programmer-amico.png">
+  <img align="right" alt="analista" height="264" width="312" src="https://github.com/geovanig/landing-page/blob/main/images/Programmer-amico.png">
 </div>
   
   ##
